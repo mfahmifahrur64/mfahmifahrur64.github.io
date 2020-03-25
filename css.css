@@ -1,0 +1,21 @@
+body{
+	background-color: palegoldenrod;
+}
+
+h1{
+	text-align: left;
+	color: indianred;
+}
+
+p{
+	color: olive;
+}
+
+h2{
+	text-align: center;
+	color: teal;
+}
+
+img{
+	border-radius: 7200px
+}
